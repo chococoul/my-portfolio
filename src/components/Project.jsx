@@ -10,7 +10,7 @@ const Projects = () => {
                         <div className="project-header">
                             <i className="fa-regular fa-folder-open folder-icon"></i>
                             <div className="small-icons">
-                                <a href={project.gitHubLink}><i className="fa fa-link"></i></a>
+                                <a href={project.gitHubLink}  target="_blank"><i className="fa fa-link"></i></a>
                             </div>
                         </div>
                         <h3>{project.title}</h3>
