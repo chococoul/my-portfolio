@@ -3,15 +3,15 @@ import Image from "next/image";
 const Hero = () => {
     return (
         <div className="hero-container">
-            <Image src='/images/profil.jpg' className="profile-img" width={300} height={300} alt="Sayon's personal headshot"  />
+            <Image src='/images/Profil1.jpg' className="profile-img" width={300} height={300} alt="Sayon's personal headshot" />
             <div className="hero-text">
                 <h1>Hey, I&apos;m Sayon  👋</h1>
                 <p>
                     I&apos;m a software developer based in Bamako, Mali. I specialize in building (and occasionally designing)
-                     exceptional websites, web and mobile applications, and everything in between.
+                    exceptional websites, web and mobile applications, and everything in between.
                 </p>
                 <div className="social-icons">
-                    
+
                     <a
                         href="https://github.com/chococoul"
                         aria-label="GitHub"

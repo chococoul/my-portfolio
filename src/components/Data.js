@@ -1,45 +1,44 @@
 export const projectData = [
 	{
 		id: 1,
-		title: 'Malibaara - Site web',
+		title: 'Malibaara - Job Search Website',
 		description:
-			'Malibaara is a job search site that allows you to publish job offers, calls for tenders, training and advertising. This site not only allows employers to post their ads but also job seekers to receive all notifications of published offers and to apply. It is an efficient and very dynamic site that meets Malibaara  expectations.',
+			'Frontend development for a dynamic job search platform. Implemented responsive UI components and interactive features using React and TailwindCSS.',
 		gitHubLink: 'https://malibaara.com/',
 	},
-	
 	{
 		id: 2,
 		title: 'Malibaara Mobile App',
 		description:
-			'Malibaara is a job search platform in Mali. Candidates have the possibility to register and receive offers by SMS and e-mail.',
+			'Contributed to the frontend of a mobile job search app. Developed UI screens and integrated client-side interactions for a smooth user experience.',
 		gitHubLink: 'https://play.google.com/store/apps/details?id=com.d3k.malibaara&pli=1',
 	},
 	{
 		id: 3,
-		title: 'Fondation Damaguile Diawara',
+		title: 'Fondation Damaguile Diawara Website',
 		description:
-			'A simple for The Dama Guilé Diawara Foundation " It is a cultural, apolitical, non-profit organization whose vocation is the knowledge, enhancement, popularization of the history, culture of the Diawara and allies.',
+			'Frontend work for a cultural foundation website. Built responsive pages and interactive elements, focusing on accessibility and performance.',
 		gitHubLink: 'http://fondationdamaguilediawara.org/',
 	},
 	{
 		id: 4,
-		title: 'Excel Management',
+		title: 'Excel Management Website',
 		description:
-			'A static website for ExcelManagement. ExcelManagement is a consultancy, studies and training firm with more than 20 years of successful experience in Mali and abroad.',
+			'Developed the frontend for a consultancy firm’s website. Implemented layout, navigation, and UI components to improve user engagement.',
 		gitHubLink: 'http://excelmanagementmali.com/',
 	},
 	{
 		id: 5,
-		title: 'Groupe Scolaire Malick Gueye Fall',
+		title: 'Groupe Scolaire Malick Gueye Fall Website',
 		description:
-			'It is a site which not only allows the school and its activities to be presented. But also to exchange with the parents of pupils and to inform them of the events which take place within the establishment. This site gives a great visibility on the daily life of the pupils',
+			'Frontend development for a school website. Created responsive interfaces for presenting school activities and improving communication with parents.',
 		gitHubLink: 'http://malickgueyefall.com/',
 	},
 	{
 		id: 6,
-		title: 'Groupe Scolaire Les Cimes',
+		title: 'Groupe Scolaire Les Cimes Website',
 		description:
-			'It is a site that not only allows the presentation of the school and its activities. But also to exchange with the parents of pupils and to inform them of the events which take place within the establishment. This site gives a great visibility on the daily life of the pupils.',
+			'Worked on the frontend of a school website. Built responsive layouts and interactive components to showcase daily school activities effectively.',
 		gitHubLink: 'http://ecolelescimes.com/',
 	},
 ];
